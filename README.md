@@ -17,7 +17,7 @@ The project encompasses the following steps:
 7. Summary and Recommendations: Summarize the project, discuss key findings, and provide recommendations for stakeholders.
 
 ## Presentation and Sources
-- [Link to Presentation Slides](https://www.canva.com/design/DAFoD3_nkEU/fbDwd3MqOMnq-LB2H6fDog/edit)
+- [Link to Presentation Slides](https://www.canva.com/design/DAFoD3_nkEU/fbDwd3MqOMnq-LB2H6fDog/edit?utm_content=DAFoD3_nkEU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   
 
 The presentation slides provide a comprehensive overview of the project, including the problem statement, methodology, findings, and recommendations. The data sources document provides information on the datasets used in the analysis and their relevant citations.
@@ -47,4 +47,4 @@ To run the project code and reproduce the analysis, ensure that you have the fol
 Refer to the project notebooks for specific installation instructions and code usage.
 
 
-For any inquiries or feedback, please contact Sandra Luyali at [your@email.com].
+For any inquiries or feedback, please contact Sandra Luyali at [sandraluyali@gmail.com].
